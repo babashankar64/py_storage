@@ -1,0 +1,7 @@
+{
+  "Drives" : ["/dev/sdg","/dev/sdf"],
+  "partitions_type" : "p",
+  "Partition_number" : "1",
+  "First_sector" : "2048",
+  "last_sector" : "+20G"
+}

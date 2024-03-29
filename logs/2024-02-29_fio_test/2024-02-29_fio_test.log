@@ -1,0 +1,156 @@
+2024-02-29 12:22:37,699 INFO Storage_lib.py'' <module> 128 :: None
+2024-02-29 12:25:21,165 INFO Storage_lib.py'' <module> 128 :: None
+2024-02-29 12:38:51,069 INFO Storage_lib.py'' <module> 122 :: None
+2024-02-29 12:42:34,113 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-29 12:45:04,429 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-29 12:45:52,769 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-29 12:46:31,983 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-29 12:47:44,087 INFO Storage_lib.py'' <module> 122 :: None
+2024-02-29 12:53:02,968 INFO Storage_lib.py'' <module> 121 :: None
+2024-02-29 12:54:41,571 INFO Storage_lib.py'' <module> 123 :: None
+2024-02-29 12:56:55,211 INFO Storage_lib.py'' <module> 123 :: None
+2024-02-29 13:00:38,963 INFO Storage_lib.py'' <module> 123 :: None
+2024-02-29 13:01:49,398 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-29 13:02:23,089 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-29 13:02:41,022 INFO Storage_lib.py'' <module> 120 :: '/dev/sd' drive is not found in server
+2024-02-29 13:04:01,211 INFO Storage_lib.py'' <module> 119 :: '/dev/sd' drive is not found in server. Available drives('/dev/sd', ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh'])
+2024-02-29 13:04:45,045 INFO Storage_lib.py'' <module> 119 :: '/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-29 13:06:02,367 INFO Storage_lib.py'' <module> 119 :: [None]
+2024-02-29 13:07:05,379 INFO Storage_lib.py'' <module> 120 :: [None, None]
+2024-02-29 13:10:01,070 INFO Storage_lib.py'' <module> 121 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 13:10:41,198 INFO Storage_lib.py'' <module> 120 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 13:11:06,657 INFO Storage_lib.py'' <module> 120 :: []
+2024-02-29 13:12:26,114 INFO Storage_lib.py'' <module> 120 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2", "Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 13:13:54,535 INFO Storage_lib.py'' <module> 120 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 13:14:41,476 INFO Storage_lib.py'' <module> 119 :: []
+2024-02-29 14:24:50,521 INFO Storage_lib.py'' <module> 121 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 14:25:08,400 INFO Storage_lib.py'' <module> 121 :: []
+2024-02-29 14:27:59,250 INFO Storage_lib.py'' <module> 121 :: None
+2024-02-29 14:34:17,331 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 14:34:28,818 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 14:51:27,772 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 14:56:14,820 INFO Storage_lib.py'' <module> 126 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdf1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdf2"]
+2024-02-29 14:58:46,993 INFO Storage_lib.py'' <module> 126 :: '/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-29 15:02:10,181 INFO Storage_lib.py'' <module> 126 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdb1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdb2"]
+2024-02-29 15:15:37,104 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 15:15:53,319 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 15:16:04,439 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 15:17:02,890 INFO Storage_lib.py'' <module> 126 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 15:17:29,097 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 15:19:17,393 INFO Storage_lib.py'' <module> 126 :: None
+2024-02-29 16:43:00,801 INFO Storage_lib.py'' <module> 128 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 16:43:18,269 INFO Storage_lib.py'' <module> 128 :: []
+2024-02-29 16:45:42,401 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 16:46:30,654 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdh2"]
+2024-02-29 16:46:47,865 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdh3"]
+2024-02-29 16:47:38,142 INFO Storage_lib.py'' <module> 130 :: ["Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdh4"]
+2024-02-29 16:48:51,707 INFO Storage_lib.py'' <module> 130 :: []
+2024-02-29 16:50:18,242 INFO Storage_lib.py'' <module> 130 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 16:50:39,197 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 16:51:13,507 INFO Storage_lib.py'' <module> 128 :: None
+2024-02-29 16:51:38,278 INFO Storage_lib.py'' <module> 130 :: None
+2024-02-29 16:55:54,675 INFO Storage_lib.py'' <module> 131 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 16:56:12,956 INFO Storage_lib.py'' <module> 131 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 16:56:18,115 INFO Storage_lib.py'' <module> 131 :: None
+2024-02-29 16:57:44,920 INFO Storage_lib.py'' <module> 131 :: None
+2024-02-29 17:01:53,815 INFO Storage_lib.py'' <module> 131 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-02-29 17:02:24,472 INFO Storage_lib.py'' <module> 131 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 17:02:28,620 INFO Storage_lib.py'' <module> 131 :: None
+2024-02-29 17:03:58,013 INFO Storage_lib.py'' <module> 128 :: unavailable partitions :: partitions are available only 0 you are given 2
+2024-02-29 17:09:14,484 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1"]
+2024-02-29 17:09:38,676 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2", "Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 17:09:57,499 INFO Storage_lib.py'' <module> 129 :: unavailable partitions :: partitions are available only 0 you are given 1
+2024-02-29 17:10:08,399 INFO Storage_lib.py'' <module> 129 :: '/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-29 17:12:30,288 INFO Storage_lib.py'' <module> 129 :: '/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-29 17:12:43,512 INFO Storage_lib.py'' <module> 129 :: ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"]
+2024-02-29 17:12:51,428 INFO Storage_lib.py'' <module> 129 :: []
+2024-02-29 17:28:22,241 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:31:14,475 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:31:40,338 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:31:48,805 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:32:51,822 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:33:09,872 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:33:19,244 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:33:28,184 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:34:24,783 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:34:37,616 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 17:35:33,103 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 17:37:08,319 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 17:37:16,615 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 17:37:31,229 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 17:39:58,941 INFO Storage_lib.py'' <module> 106 :: None
+2024-02-29 17:40:43,137 INFO Storage_lib.py'' <module> 107 :: None
+2024-02-29 17:42:29,053 INFO Storage_lib.py'' <module> 108 :: None
+2024-02-29 17:42:49,720 INFO Storage_lib.py'' <module> 108 :: None
+2024-02-29 17:43:57,886 INFO Storage_lib.py'' <module> 108 :: None
+2024-02-29 17:44:51,395 INFO Storage_lib.py'' <module> 108 :: None
+2024-02-29 17:45:04,526 INFO Storage_lib.py'' <module> 108 :: None
+2024-02-29 17:45:28,510 INFO Storage_lib.py'' <module> 109 :: None
+2024-02-29 17:45:51,900 INFO Storage_lib.py'' <module> 109 :: None
+2024-02-29 17:46:27,042 INFO Storage_lib.py'' <module> 109 :: None
+2024-02-29 17:46:42,587 INFO Storage_lib.py'' <module> 107 :: {'sda': '279.4G', 'sdb': '279.4G', 'sdc': '279.4G', 'sdd': '279.4G', 'sde': '465.8G', 'sdf': '931.5G', 'sdg': '279.4G', 'sdh': '238.5G'}
+2024-02-29 17:46:50,105 INFO Storage_lib.py'' <module> 106 :: {'sda': '279.4G', 'sdb': '279.4G', 'sdc': '279.4G', 'sdd': '279.4G', 'sde': '465.8G', 'sdf': '931.5G', 'sdg': '279.4G', 'sdh': '238.5G'}
+2024-02-29 17:47:49,524 INFO Storage_lib.py'' <module> 106 :: 279.4G
+2024-02-29 17:50:57,932 INFO Storage_lib.py'' <module> 106 :: {'sda': '/dev/279.4G', 'sdb': '/dev/279.4G', 'sdc': '/dev/279.4G', 'sdd': '/dev/279.4G', 'sde': '/dev/465.8G', 'sdf': '/dev/931.5G', 'sdg': '/dev/279.4G', 'sdh': '/dev/238.5G'}
+2024-02-29 17:51:17,083 INFO Storage_lib.py'' <module> 106 :: {'/dev/sda': '279.4G', '/dev/sdb': '279.4G', '/dev/sdc': '279.4G', '/dev/sdd': '279.4G', '/dev/sde': '465.8G', '/dev/sdf': '931.5G', '/dev/sdg': '279.4G', '/dev/sdh': '238.5G'}
+2024-02-29 17:58:03,098 INFO Storage_lib.py'' <module> 111 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 17:58:44,496 INFO Storage_lib.py'' <module> 111 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 17:59:22,707 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 17:59:50,929 INFO Storage_lib.py'' <module> 111 :: None
+2024-02-29 18:00:07,473 INFO Storage_lib.py'' <module> 111 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 18:00:34,838 INFO Storage_lib.py'' <module> 111 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 18:01:16,899 INFO Storage_lib.py'' <module> 112 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 18:01:43,734 INFO Storage_lib.py'' <module> 111 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 18:02:01,557 INFO Storage_lib.py'' <module> 111 :: ['/dev/sdh1', '/dev/sdh2', '/dev/sdh3', '/dev/sdh4']
+2024-02-29 18:07:41,233 INFO Storage_lib.py'' <module> 113 :: None
+2024-02-29 18:07:49,740 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 18:08:50,360 INFO Storage_lib.py'' <module> 111 :: set()
+2024-02-29 18:09:33,535 INFO Storage_lib.py'' <module> 111 :: {'/dev/sdh2', '/dev/sdh4', '/dev/sdh3', '/dev/sdh1'}
+2024-02-29 18:11:33,525 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 18:12:27,287 INFO Storage_lib.py'' <module> 112 :: None
+2024-02-29 18:12:45,020 INFO Storage_lib.py'' <module> 113 :: None
+2024-02-29 18:14:43,664 INFO Storage_lib.py'' <module> 113 :: {'/dev/sdg3'}
+2024-02-29 18:14:55,323 INFO Storage_lib.py'' <module> 113 :: {'/dev/sdg3'}
+2024-02-29 18:19:32,591 INFO Storage_lib.py'' <module> 113 :: {'/dev/sdg3': '279.4G'}
+2024-02-29 18:33:18,186 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 18:34:02,891 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 18:35:09,733 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 18:35:43,292 INFO Storage_lib.py'' <module> 166 :: None
+2024-02-29 18:36:14,950 INFO Storage_lib.py'' <module> 166 :: None
+2024-02-29 18:37:12,100 INFO Storage_lib.py'' <module> 166 :: None
+2024-02-29 18:38:06,202 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 18:39:00,724 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 18:39:30,988 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 18:40:12,565 INFO Storage_lib.py'' <module> 165 :: None
+2024-02-29 19:49:43,121 INFO Storage_lib.py'' <module> 169 :: None
+2024-02-29 19:50:45,228 INFO Storage_lib.py'' <module> 169 :: None
+2024-02-29 19:51:11,965 INFO Storage_lib.py'' <module> 169 :: None
+2024-02-29 19:51:50,456 INFO Storage_lib.py'' <module> 168 :: None
+2024-02-29 19:56:43,948 INFO Storage_lib.py'' <module> 170 :: None
+2024-02-29 19:56:58,191 INFO Storage_lib.py'' <module> 170 :: None
+2024-02-29 19:57:28,184 INFO Storage_lib.py'' <module> 170 :: None
+2024-02-29 19:58:00,133 INFO Storage_lib.py'' <module> 170 :: None
+2024-02-29 19:58:22,765 INFO Storage_lib.py'' <module> 170 :: None
+2024-02-29 19:59:33,422 INFO Storage_lib.py'' <module> 171 :: None
+2024-02-29 20:00:21,869 INFO Storage_lib.py'' <module> 172 :: None
+2024-02-29 20:01:36,008 INFO Storage_lib.py'' <module> 172 :: None
+2024-02-29 20:06:33,479 INFO Storage_lib.py'' <module> 174 :: None
+2024-02-29 20:07:02,600 INFO Storage_lib.py'' <module> 174 :: None
+2024-02-29 20:15:10,920 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3"]
+2024-02-29 20:15:33,399 INFO Storage_lib.py'' <module> 171 :: list index out of range
+2024-02-29 20:16:11,225 INFO Storage_lib.py'' <module> 171 :: []
+2024-02-29 20:17:18,622 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1"]
+2024-02-29 20:18:39,013 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2", "Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3"]
+2024-02-29 20:19:36,045 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-02-29 20:19:46,801 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: partitions are available only 0 you are given 1
+2024-02-29 20:20:41,275 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are available only 0 you are given 1
+2024-02-29 20:22:01,661 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"]
+2024-02-29 20:22:12,369 INFO Storage_lib.py'' <module> 171 :: drive ['/dev/sdg'] has not enough space for creating partition
+2024-02-29 20:24:05,570 INFO Storage_lib.py'' <module> 171 :: []
+2024-02-29 20:24:11,504 INFO Storage_lib.py'' <module> 171 :: []
+2024-02-29 20:24:39,365 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 930 GiB : /dev/sdf1"]
+2024-02-29 20:24:51,597 INFO Storage_lib.py'' <module> 171 :: drive ['/dev/sdf'] has not enough space for creating partition
+2024-02-29 20:26:18,588 INFO Storage_lib.py'' <module> 172 :: drive ['/dev/sdf'] has not enough space for creating partition-930
+2024-02-29 20:28:22,714 INFO Storage_lib.py'' <module> 172 :: '/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-29 20:32:15,169 INFO Storage_lib.py'' <module> 110 :: {'/dev/sdf1': '930G', '/dev/sdg1': '270G', '/dev/sdg2': '9.4G'}
+2024-02-29 20:36:37,211 INFO Storage_lib.py'' <module> 110 :: {'/dev/sdf1': '930G', '/dev/sdg1': '270G', '/dev/sdg2': '9.4G'}

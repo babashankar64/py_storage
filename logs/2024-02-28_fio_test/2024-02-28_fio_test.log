@@ -1,0 +1,212 @@
+2024-02-28 11:42:34,770 INFO Storage_lib.py'' <module> 30 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 11:42:47,570 INFO Storage_lib.py'' <module> 29 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 11:51:40,477 INFO Storage_lib.py'' <module> 29 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 11:51:49,281 INFO Storage_lib.py'' <module> 29 :: []
+2024-02-28 11:52:08,954 INFO Storage_lib.py'' <module> 29 :: []
+2024-02-28 11:53:08,954 INFO Storage_lib.py'' <module> 29 :: []
+2024-02-28 11:53:24,167 INFO Storage_lib.py'' <module> 29 :: []
+2024-02-28 11:53:35,066 INFO Storage_lib.py'' <module> 29 :: []
+2024-02-28 11:54:41,947 INFO Storage_lib.py'' <module> 30 :: None
+2024-02-28 11:54:55,000 INFO Storage_lib.py'' <module> 30 :: None
+2024-02-28 11:55:17,905 INFO Storage_lib.py'' <module> 30 :: None
+2024-02-28 11:55:55,417 INFO Storage_lib.py'' <module> 29 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 11:56:04,987 INFO Storage_lib.py'' <module> 29 :: []
+2024-02-28 11:59:47,078 INFO Storage_lib.py'' <module> 32 :: []
+2024-02-28 12:01:40,117 INFO Storage_lib.py'' <module> 32 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 12:02:02,238 INFO Storage_lib.py'' <module> 33 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 12:02:13,736 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:03:32,440 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:04:21,634 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:05:35,585 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:05:50,323 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:06:09,988 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:06:21,100 INFO Storage_lib.py'' <module> 32 :: []
+2024-02-28 12:07:58,349 INFO Storage_lib.py'' <module> 32 :: []
+2024-02-28 12:10:00,390 INFO Storage_lib.py'' <module> 32 :: []
+2024-02-28 12:42:26,056 INFO Storage_lib.py'' <module> 32 :: []
+2024-02-28 12:42:36,016 INFO Storage_lib.py'' <module> 32 :: []
+2024-02-28 12:43:07,626 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:43:31,540 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:43:52,904 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:44:13,594 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:48:47,337 INFO Storage_lib.py'' <module> 33 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 12:49:01,654 INFO Storage_lib.py'' <module> 33 :: []
+2024-02-28 12:49:30,878 INFO Storage_lib.py'' <module> 34 :: []
+2024-02-28 12:49:36,119 INFO Storage_lib.py'' <module> 34 :: []
+2024-02-28 12:50:31,062 INFO Storage_lib.py'' <module> 34 :: []
+2024-02-28 12:50:57,653 INFO Storage_lib.py'' <module> 34 :: []
+2024-02-28 12:51:37,593 INFO Storage_lib.py'' <module> 34 :: hi
+2024-02-28 12:51:51,990 INFO Storage_lib.py'' <module> 33 :: hi
+2024-02-28 12:52:21,735 INFO Storage_lib.py'' <module> 33 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 12:52:59,826 INFO Storage_lib.py'' <module> 34 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 12:53:17,848 INFO Storage_lib.py'' <module> 34 :: []
+2024-02-28 12:54:08,280 INFO Storage_lib.py'' <module> 34 :: []
+2024-02-28 12:54:17,243 INFO Storage_lib.py'' <module> 34 :: hi
+2024-02-28 12:54:26,658 INFO Storage_lib.py'' <module> 33 :: hi
+2024-02-28 12:54:44,673 INFO Storage_lib.py'' <module> 32 :: ('', 'bash: line 1: lsbl: command not found\n')
+2024-02-28 12:54:58,509 INFO Storage_lib.py'' <module> 32 :: bash: line 1: lsbl: command not found
+
+2024-02-28 12:56:31,285 INFO Storage_lib.py'' <module> 32 :: 14
+2024-02-28 12:56:57,188 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+
+2024-02-28 12:57:22,191 INFO Storage_lib.py'' <module> 32 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 12:57:30,269 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+
+2024-02-28 12:57:43,720 INFO Storage_lib.py'' <module> 32 :: ('lsbl: command not found\n', 'command is invaild')
+2024-02-28 12:58:52,597 INFO Storage_lib.py'' <module> 32 :: ('lsbl: command not found\n', 'Do you mean "lsblk" ')
+2024-02-28 12:59:02,535 INFO Storage_lib.py'' <module> 32 :: ('lsbl: command not found\n', 'Do you mean "lsblk" ')
+2024-02-28 12:59:31,614 INFO Storage_lib.py'' <module> 32 :: out_drives[1][out_drives[1].find(cmd):], 'Do you mean lsblk '
+2024-02-28 12:59:49,334 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+, 'Do you mean lsblk '
+2024-02-28 12:59:59,040 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+ 'Do you mean lsblk '
+2024-02-28 13:00:15,952 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+'Do you mean lsblk '
+2024-02-28 13:00:34,183 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+ 'oops, Do you mean lsblk '
+2024-02-28 13:01:37,123 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+ 'Do you mean lsblk '
+2024-02-28 13:01:47,396 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+'Do you mean lsblk '
+2024-02-28 13:01:52,319 INFO Storage_lib.py'' <module> 32 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 13:01:58,159 INFO Storage_lib.py'' <module> 32 :: lsbl: command not found
+'Do you mean lsblk '
+2024-02-28 13:53:58,673 INFO Storage_lib.py'' <module> 37 :: lsbl: command not found
+'Do you mean lsblk '
+2024-02-28 14:02:08,032 INFO Storage_lib.py'' <module> 46 :: []
+2024-02-28 14:04:16,657 INFO Storage_lib.py'' <module> 46 :: []
+2024-02-28 14:04:37,470 INFO Storage_lib.py'' <module> 43 :: []
+2024-02-28 14:04:51,497 INFO Storage_lib.py'' <module> 43 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:05:03,662 INFO Storage_lib.py'' <module> 43 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:05:31,433 INFO Storage_lib.py'' <module> 43 :: lsbk: command not found
+'Do you mean lsblk '
+2024-02-28 14:05:46,267 INFO Storage_lib.py'' <module> 43 :: lsbk: command not found
+'Do you mean lsblk '
+2024-02-28 14:05:53,281 INFO Storage_lib.py'' <module> 42 :: lsbk: command not found
+'Do you mean lsblk '
+2024-02-28 14:06:00,213 INFO Storage_lib.py'' <module> 42 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:07:03,606 INFO Storage_lib.py'' <module> 44 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:07:13,441 INFO Storage_lib.py'' <module> 44 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:07:20,688 INFO Storage_lib.py'' <module> 44 :: lsbk: command not found
+'Do you mean lsblk '
+2024-02-28 14:17:37,157 INFO Storage_lib.py'' <module> 43 :: lsbk: command not found
+'Do you mean lsblk '
+2024-02-28 14:17:51,513 INFO Storage_lib.py'' <module> 43 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:19:43,772 INFO Storage_lib.py'' <module> 43 :: ['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-02-28 14:42:29,921 INFO Storage_lib.py'' <module> 65 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13', '/dev/sdf': 'Revision: HPD8', '/dev/sdg': 'Revision: ES66', '/dev/sdh': 'Firmware Version: V0718B0'}
+2024-02-28 14:42:59,677 INFO Storage_lib.py'' <module> 62 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13', '/dev/sdf': 'Revision: HPD8', '/dev/sdg': 'Revision: ES66', '/dev/sdh': 'Firmware Version: V0718B0'}
+2024-02-28 14:58:36,998 INFO Storage_lib.py'' <module> 62 :: None
+2024-02-28 15:00:32,629 INFO Storage_lib.py'' <module> 62 :: None
+2024-02-28 15:07:16,081 INFO Storage_lib.py'' <module> 64 :: /dev/sda is not found
+2024-02-28 15:08:16,976 INFO Storage_lib.py'' <module> 64 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13', '/dev/sdf': 'Revision: HPD8', '/dev/sdg': 'Revision: ES66', '/dev/sdh': 'Firmware Version: V0718B0'}
+2024-02-28 15:08:31,076 INFO Storage_lib.py'' <module> 64 :: /dev/sd is not found
+2024-02-28 15:09:02,908 INFO Storage_lib.py'' <module> 64 :: {'/dev/sda': 'Revision: ES68'}/dev/sd is not found
+2024-02-28 15:09:25,546 INFO Storage_lib.py'' <module> 64 :: {'/dev/sda': 'Revision: ES68'}
+/dev/sd is not found
+2024-02-28 15:09:47,184 INFO Storage_lib.py'' <module> 64 :: {'/dev/sda': 'Revision: ES68'} '/dev/sd' is not found
+2024-02-28 15:10:01,899 INFO Storage_lib.py'' <module> 64 :: {'/dev/sda': 'Revision: ES68'}
+'/dev/sd' is not found
+2024-02-28 15:10:24,519 INFO Storage_lib.py'' <module> 64 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13'}
+'/dev/sd' is not found
+2024-02-28 15:11:47,560 INFO Storage_lib.py'' <module> 63 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13'}
+'/dev/sd' is not found
+2024-02-28 15:13:34,826 INFO Storage_lib.py'' <module> 63 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version:', '/dev/sdf': 'Revision: HPD8', '/dev/sdg': 'Revision: ES66', '/dev/sdh': 'Firmware Version:'}
+2024-02-28 15:14:52,436 INFO Storage_lib.py'' <module> 63 :: {'/dev/sda': 'Revision:', '/dev/sdb': 'Revision:', '/dev/sdc': 'Revision:', '/dev/sdd': 'Revision:', '/dev/sde': 'Firmware Version:', '/dev/sdf': 'Revision:', '/dev/sdg': 'Revision:', '/dev/sdh': 'Firmware Version:'}
+2024-02-28 15:17:56,158 INFO Storage_lib.py'' <module> 65 :: {'/dev/sda': 'Revision:', '/dev/sdb': 'Revision:', '/dev/sdc': 'Revision:', '/dev/sdd': 'Revision:', '/dev/sde': 'Firmware Version:', '/dev/sdf': 'Revision:', '/dev/sdg': 'Revision:', '/dev/sdh': 'Firmware Version:'}
+2024-02-28 15:20:35,508 INFO Storage_lib.py'' <module> 62 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13', '/dev/sdf': 'Revision: HPD8', '/dev/sdg': 'Revision: ES66', '/dev/sdh': 'Firmware Version: V0718B0'}
+2024-02-28 15:29:36,087 INFO Storage_lib.py'' <module> 65 :: {'/dev/sda': 'Revision: ES68', '/dev/sdb': 'Revision: ES66', '/dev/sdc': 'Revision: ES68', '/dev/sdd': 'Revision: ES68', '/dev/sde': 'Firmware Version: SC13', '/dev/sdf': 'Revision: HPD8', '/dev/sdg': 'Revision: ES66', '/dev/sdh': 'Firmware Version: V0718B0'}
+2024-02-28 15:33:50,288 INFO Storage_lib.py'' <module> 67 :: {'/dev/sda': 'Revision: ES68'}
+'/dev/sd' is not found
+2024-02-28 15:36:06,781 INFO Storage_lib.py'' <module> 66 :: {}
+'/dev/sd' is not found
+2024-02-28 15:37:52,996 INFO Storage_lib.py'' <module> 69 :: None
+2024-02-28 15:39:29,114 INFO Storage_lib.py'' <module> 69 :: {}
+'/dev/sd' is not found
+2024-02-28 15:39:59,031 INFO Storage_lib.py'' <module> 68 :: {}
+'/dev/sd' is not found
+2024-02-28 15:40:09,997 INFO Storage_lib.py'' <module> 68 :: {'/dev/sda': 'Revision: ES68'}
+'/dev/sd' is not found
+2024-02-28 15:41:33,412 INFO Storage_lib.py'' <module> 68 :: None
+2024-02-28 15:44:42,192 INFO Storage_lib.py'' <module> 69 :: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-02-28 15:46:09,601 INFO Storage_lib.py'' <module> 71 :: {'/dev/sda': 'Revision: ES68'}
+'/dev/sd' is not found
+2024-02-28 15:47:09,036 INFO Storage_lib.py'' <module> 71 :: {'/dev/sda': 'Revision: ES68'}
+'/dev/sd' drive is not found in server
+2024-02-28 15:55:24,242 INFO Storage_lib.py'' <module> 87 :: '/dev/sd' drive is not found in server
+2024-02-28 15:56:08,607 INFO Storage_lib.py'' <module> 87 :: '/dev/sd' drive is not found in server
+2024-02-28 15:56:44,059 INFO Storage_lib.py'' <module> 85 :: '/dev/sd' drive is not found in server
+2024-02-28 16:12:41,935 INFO Storage_lib.py'' <module> 85 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sdd1', 'sdd2', 'sdd3', 'sde1', 'sde2', 'sde3', 'sdh1']
+2024-02-28 16:15:40,073 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:16:19,478 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:16:27,854 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:16:32,702 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:16:35,992 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:16:40,029 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:16:54,430 INFO Storage_lib.py'' <module> 86 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:20:49,885 INFO Storage_lib.py'' <module> 88 :: ['sda1', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:24:59,791 INFO Storage_lib.py'' <module> 89 :: ['sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:27:40,127 INFO Storage_lib.py'' <module> 90 :: ['sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:33:35,075 INFO Storage_lib.py'' <module> 93 :: None
+2024-02-28 16:33:42,751 INFO Storage_lib.py'' <module> 93 :: None
+2024-02-28 16:33:59,412 INFO Storage_lib.py'' <module> 93 :: None
+2024-02-28 16:34:09,995 INFO Storage_lib.py'' <module> 93 :: None
+2024-02-28 16:35:54,121 INFO Storage_lib.py'' <module> 93 :: None
+2024-02-28 16:36:05,480 INFO Storage_lib.py'' <module> 93 :: None
+2024-02-28 16:36:46,278 INFO Storage_lib.py'' <module> 94 :: None
+2024-02-28 16:38:53,693 INFO Storage_lib.py'' <module> 95 :: None
+2024-02-28 16:40:31,246 INFO Storage_lib.py'' <module> 92 :: ['sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sdh1']
+2024-02-28 16:42:16,598 INFO Storage_lib.py'' <module> 91 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:43:14,178 INFO Storage_lib.py'' <module> 91 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:43:30,510 INFO Storage_lib.py'' <module> 92 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:44:13,194 INFO Storage_lib.py'' <module> 92 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:45:28,512 INFO Storage_lib.py'' <module> 93 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:46:15,505 INFO Storage_lib.py'' <module> 93 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:47:09,299 INFO Storage_lib.py'' <module> 93 :: ['sda1', 'sda2', 'sda3', 'sda5', 'sdb2', 'sdb3', 'sdb4', 'sde1', 'sde3', 'sde4', 'sdh1']
+2024-02-28 16:47:24,908 INFO Storage_lib.py'' <module> 93 :: []
+2024-02-28 16:47:44,643 INFO Storage_lib.py'' <module> 93 :: []
+2024-02-28 16:48:20,752 INFO Storage_lib.py'' <module> 93 :: ['sda2']
+2024-02-28 16:48:44,055 INFO Storage_lib.py'' <module> 93 :: ['sda1', 'sda2', 'sda3', 'sda5']
+2024-02-28 16:48:51,652 INFO Storage_lib.py'' <module> 93 :: ['sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sdh1']
+2024-02-28 16:50:18,099 INFO Storage_lib.py'' <module> 91 :: ['sdb2', 'sdb3', 'sdb4', 'sde4', 'sdh1']
+2024-02-28 16:50:23,668 INFO Storage_lib.py'' <module> 91 :: ['sdb2', 'sdb3', 'sdb4', 'sdh1']
+2024-02-28 16:52:39,254 INFO Storage_lib.py'' <module> 91 :: ['sdb2', 'sdb3', 'sdb4', 'sde1', 'sde2', 'sde3', 'sde4', 'sdh1']
+2024-02-28 17:04:46,089 INFO Storage_lib.py'' <module> 91 :: ['sdb2', 'sdb3', 'sdb4', 'sdd1', 'sde2', 'sdh1']
+2024-02-28 17:05:33,039 INFO Storage_lib.py'' <module> 91 :: ['sdb2', 'sdb3', 'sdb4', 'sdd1', 'sde2', 'sdh1']
+2024-02-28 17:08:06,487 INFO Storage_lib.py'' <module> 91 :: ['/dev/sdb2', '/dev/sdb3', '/dev/sdb4', '/dev/sdd1', '/dev/sde2', '/dev/sdh1']
+2024-02-28 17:08:25,571 INFO Storage_lib.py'' <module> 91 :: ['/dev/sdb2', '/dev/sdb3', '/dev/sdb4', '/dev/sdd1', '/dev/sde2', '/dev/sdh1']
+2024-02-28 17:09:50,934 INFO Storage_lib.py'' <module> 91 :: ['/dev/sdb2', '/dev/sdb3', '/dev/sdb4', '/dev/sdd1', '/dev/sde2', '/dev/sdf1', '/dev/sdh1']
+2024-02-28 17:13:09,960 INFO Storage_lib.py'' <module> 91 :: ['/dev/sdb2', '/dev/sdb3', '/dev/sdb4', '/dev/sdd1', '/dev/sde2', '/dev/sdf1', '/dev/sdf2', '/dev/sdf3', '/dev/sdh1']
+2024-02-28 17:13:10,644 INFO Storage_lib.py'' <module> 109 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n', 'fdisk: cannot open [/dev/sdh]: No such file or directory\n')
+2024-02-28 17:15:37,604 INFO Storage_lib.py'' <module> 109 :: '/' drive is not found in server
+2024-02-28 17:17:26,984 INFO Storage_lib.py'' <module> 111 :: '/' drive is not found in server
+2024-02-28 17:19:10,915 INFO Storage_lib.py'' <module> 111 :: ("\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (1-4, default 1): First sector (2048-585937499, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-585937499, default 585937499): \nCreated a new partition 1 of type 'Linux' and of size 279.4 GiB.\n\nCommand (m for help): \nThe partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n", 'Partition #1 contains a ext4 signature.\n')
+2024-02-28 18:06:44,435 INFO Storage_lib.py'' <module> 113 :: None
+2024-02-28 18:07:31,016 INFO Storage_lib.py'' <module> 113 :: None
+2024-02-28 18:10:18,619 INFO Storage_lib.py'' <module> 114 :: None
+2024-02-28 18:10:47,298 INFO Storage_lib.py'' <module> 114 :: None
+2024-02-28 18:13:50,111 INFO Storage_lib.py'' <module> 114 :: None
+2024-02-28 18:15:04,660 INFO Storage_lib.py'' <module> 114 :: None
+2024-02-28 18:18:46,055 INFO Storage_lib.py'' <module> 113 :: ("\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (1-4, default 1): First sector (2048-1953525167, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-1953525167, default 1953525167): \nCreated a new partition 1 of type 'Linux' and of size 10 GiB.\n\nCommand (m for help): The partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n", '')
+2024-02-28 18:20:48,642 INFO Storage_lib.py'' <module> 114 :: <generator object CreatePartition.create_partition at 0x0000018A83702E80>
+2024-02-28 18:21:08,745 INFO Storage_lib.py'' <module> 114 :: <generator object CreatePartition.create_partition at 0x0000020AD9BA2E80>
+2024-02-28 18:22:09,529 INFO Storage_lib.py'' <module> 114 :: ("\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (1-4, default 1): First sector (2048-1953525167, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-1953525167, default 1953525167): \nCreated a new partition 1 of type 'Linux' and of size 10 GiB.\n\nCommand (m for help): The partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n", '')
+2024-02-28 18:23:29,711 INFO Storage_lib.py'' <module> 114 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): \nCommand (m for help): \nDisk /dev/sdf: 931.51 GiB, 1000204886016 bytes, 1953525168 sectors\nDisk model: DB1000BABFF     \nUnits: sectors of 1 * 512 = 512 bytes\nSector size (logical/physical): 512 bytes / 512 bytes\nI/O size (minimum/optimal): 512 bytes / 512 bytes\nDisklabel type: dos\nDisk identifier: 0x21ce2de4\n\nDevice     Boot Start      End  Sectors Size Id Type\n/dev/sdf1        2048 20973567 20971520  10G 83 Linux\n\nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nThe partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n', '@: unknown command\n1: unknown command\n\n+: unknown command\n')
+2024-02-28 18:24:29,617 INFO Storage_lib.py'' <module> 114 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): \nCommand (m for help): \nDisk /dev/sdf: 931.51 GiB, 1000204886016 bytes, 1953525168 sectors\nDisk model: DB1000BABFF     \nUnits: sectors of 1 * 512 = 512 bytes\nSector size (logical/physical): 512 bytes / 512 bytes\nI/O size (minimum/optimal): 512 bytes / 512 bytes\nDisklabel type: dos\nDisk identifier: 0x21ce2de4\n\nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nThe partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n', '@: unknown command\n1: unknown command\n\n+: unknown command\n')
+2024-02-28 18:28:19,512 INFO Storage_lib.py'' <module> 119 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): \nCommand (m for help): \nDisk /dev/sdf: 931.51 GiB, 1000204886016 bytes, 1953525168 sectors\nDisk model: DB1000BABFF     \nUnits: sectors of 1 * 512 = 512 bytes\nSector size (logical/physical): 512 bytes / 512 bytes\nI/O size (minimum/optimal): 512 bytes / 512 bytes\nDisklabel type: dos\nDisk identifier: 0x21ce2de4\n\nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nThe partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n', '@: unknown command\n1: unknown command\n\n+: unknown command\n')
+2024-02-28 18:28:38,662 INFO Storage_lib.py'' <module> 119 :: ("\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (1-4, default 1): First sector (2048-1953525167, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-1953525167, default 1953525167): \nCreated a new partition 1 of type 'Linux' and of size 10 GiB.\n\nCommand (m for help): The partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n", '')
+2024-02-28 18:29:23,818 INFO Storage_lib.py'' <module> 120 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (1 primary, 0 extended, 3 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (2-4, default 2): Partition number (2-4, default 2): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): Last sector, +/-sectors or +/-size{K,M,G,T,P} (20973568-1953525167, default 1953525167): \nCommand (m for help): \n', 'Value out of range.\nValue out of range.\nValue out of range.\n')
+2024-02-28 18:29:49,012 INFO Storage_lib.py'' <module> 120 :: ("\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (1-4, default 1): First sector (2048-1953525167, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-1953525167, default 1953525167): \nCreated a new partition 1 of type 'Linux' and of size 10 GiB.\n\nCommand (m for help): The partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n", '')
+2024-02-28 18:30:28,924 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-28 18:32:48,216 INFO Storage_lib.py'' <module> 116 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): To create more partitions, first replace a primary with an extended partition.\n\nCommand (m for help): Disk /dev/sdf: 931.51 GiB, 1000204886016 bytes, 1953525168 sectors\nDisk model: DB1000BABFF     \nUnits: sectors of 1 * 512 = 512 bytes\nSector size (logical/physical): 512 bytes / 512 bytes\nI/O size (minimum/optimal): 512 bytes / 512 bytes\nDisklabel type: dos\nDisk identifier: 0x21ce2de4\n\nDevice     Boot    Start      End  Sectors Size Id Type\n/dev/sdf1           2048 20973567 20971520  10G 83 Linux\n/dev/sdf2       20973568 41945087 20971520  10G 83 Linux\n/dev/sdf3       41945088 62916607 20971520  10G 83 Linux\n/dev/sdf4       62916608 83888127 20971520  10G 83 Linux\n\nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nCommand (m for help): \nThe partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n', '1: unknown command\n\n+: unknown command\n')
+2024-02-28 18:34:31,131 INFO Storage_lib.py'' <module> 116 :: ("\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (1-4, default 1): First sector (2048-1953525167, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-1953525167, default 1953525167): \nCreated a new partition 1 of type 'Linux' and of size 10 GiB.\n\nCommand (m for help): The partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n", '')
+2024-02-28 18:34:41,342 INFO Storage_lib.py'' <module> 116 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (1 primary, 0 extended, 3 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (2-4, default 2): Partition number (2-4, default 2): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): Last sector, +/-sectors or +/-size{K,M,G,T,P} (20973568-1953525167, default 1953525167): \nCommand (m for help): \n', 'Value out of range.\nValue out of range.\nValue out of range.\n')
+2024-02-28 18:35:12,070 INFO Storage_lib.py'' <module> 117 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (1 primary, 0 extended, 3 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (2-4, default 2): Partition number (2-4, default 2): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): Last sector, +/-sectors or +/-size{K,M,G,T,P} (20973568-1953525167, default 1953525167): \nCommand (m for help): \n', 'Value out of range.\nValue out of range.\nValue out of range.\n')
+2024-02-28 18:36:08,288 INFO Storage_lib.py'' <module> 118 :: ('\nWelcome to fdisk (util-linux 2.37.2).\nChanges will remain in memory only, until you decide to write them.\nBe careful before using the write command.\n\n\nCommand (m for help): Partition type\n   p   primary (1 primary, 0 extended, 3 free)\n   e   extended (container for logical partitions)\nSelect (default p): Partition number (2-4, default 2): Partition number (2-4, default 2): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): First sector (20973568-1953525167, default 20973568): Last sector, +/-sectors or +/-size{K,M,G,T,P} (20973568-1953525167, default 1953525167): \nCommand (m for help): \n', 'Value out of range.\nValue out of range.\nValue out of range.\n')
+2024-02-28 18:36:36,741 INFO Storage_lib.py'' <module> 118 :: '/dev/sdf' drive is not found in server
+2024-02-28 18:40:18,331 INFO Storage_lib.py'' <module> 118 :: None
+2024-02-28 21:16:11,476 INFO Storage_lib.py'' <module> 120 :: None
+2024-02-28 21:25:44,505 INFO Storage_lib.py'' <module> 124 :: None
+2024-02-28 21:26:40,229 INFO Storage_lib.py'' <module> 124 :: None
+2024-02-28 21:27:26,148 INFO Storage_lib.py'' <module> 125 :: None
+2024-02-28 21:28:55,346 INFO Storage_lib.py'' <module> 127 :: None
+2024-02-28 21:43:45,085 INFO Storage_lib.py'' <module> 129 :: None
