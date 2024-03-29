@@ -1,0 +1,183 @@
+2024-03-01 08:30:10,827 INFO Storage_lib.py'' <module> 101 :: {'/dev/sdf1': '930G', '/dev/sdg1': '270G', '/dev/sdg2': '9.4G'}
+2024-03-01 08:30:37,880 INFO Storage_lib.py'' <module> 165 :: drive ['/dev/sdf'] has not enough space for creating partition-929
+2024-03-01 08:31:25,238 INFO Storage_lib.py'' <module> 165 :: drive ['/dev/sdg'] has not enough space for creating partition-30
+2024-03-01 08:32:03,419 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 1 of type 'Linux' and of size 30 GiB : /dev/sdh1", "Created a new partition 2 of type 'Linux' and of size 30 GiB : /dev/sdh2", "Created a new partition 3 of type 'Linux' and of size 30 GiB : /dev/sdh3"]
+2024-03-01 08:32:17,633 INFO Storage_lib.py'' <module> 165 :: list index out of range
+2024-03-01 08:32:34,435 INFO Storage_lib.py'' <module> 165 :: list index out of range
+2024-03-01 08:34:28,485 INFO Storage_lib.py'' <module> 167 :: list index out of range
+2024-03-01 08:36:01,073 INFO Storage_lib.py'' <module> 168 :: list index out of range
+2024-03-01 08:37:10,375 INFO Storage_lib.py'' <module> 170 :: list index out of range
+2024-03-01 08:38:15,421 INFO Storage_lib.py'' <module> 170 :: None
+2024-03-01 08:59:06,435 INFO Storage_lib.py'' <module> 171 :: list index out of range
+2024-03-01 09:02:55,452 INFO Storage_lib.py'' <module> 171 :: None
+2024-03-01 09:03:16,000 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are only 1 you are given 2
+2024-03-01 09:03:49,438 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are only 1 you are given 2
+2024-03-01 09:04:07,187 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 4 of type 'Linux' and of size 30 GiB : /dev/sdh4"]
+2024-03-01 09:04:40,943 INFO Storage_lib.py'' <module> 166 :: unavailable partitions :: remaining partitions are only 0 you are given 1
+2024-03-01 09:05:11,533 INFO Storage_lib.py'' <module> 165 :: drive ['/dev/sdg'] has not enough space for creating partition-30
+2024-03-01 09:06:29,320 INFO Storage_lib.py'' <module> 164 :: drive ['/dev/sdg'] has not enough space for creating partition0
+2024-03-01 09:07:48,289 INFO Storage_lib.py'' <module> 164 :: drive ['/dev/sdg'] has not enough space for creating partition :: 9
+2024-03-01 09:08:03,255 INFO Storage_lib.py'' <module> 164 :: drive ['/dev/sdg'] has not enough space for creating partition :: 9G
+2024-03-01 09:08:23,655 INFO Storage_lib.py'' <module> 164 :: drive ['/dev/sdg'] has not enough space for creating partition :: 9 G
+2024-03-01 09:08:30,479 INFO Storage_lib.py'' <module> 164 :: drive ['/dev/sdg'] has not enough space for creating partition :: 9G
+2024-03-01 09:16:52,775 INFO Storage_lib.py'' <module> 165 :: drive ['/dev/sdg'] has not enough space for creating partition :: 9G
+2024-03-01 09:18:24,123 INFO Storage_lib.py'' <module> 165 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space : 9G
+2024-03-01 09:19:36,583 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 1 of type 'Linux' and of size 30 GiB : /dev/sdg1"]
+2024-03-01 09:20:07,720 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 2 of type 'Linux' and of size 30 GiB : /dev/sdg2", "Created a new partition 3 of type 'Linux' and of size 30 GiB : /dev/sdg3"]
+2024-03-01 09:20:19,946 INFO Storage_lib.py'' <module> 165 :: unavailable partitions :: remaining partitions are only 1 you are given 2
+2024-03-01 09:20:38,972 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 4 of type 'Linux' and of size 30 GiB : /dev/sdg4"]
+2024-03-01 09:20:45,496 INFO Storage_lib.py'' <module> 165 :: unavailable partitions :: remaining partitions are only 0 you are given 1
+2024-03-01 09:21:34,260 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"]
+2024-03-01 09:22:04,660 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"]
+2024-03-01 09:26:37,417 INFO Storage_lib.py'' <module> 166 :: None
+2024-03-01 09:39:05,368 INFO Storage_lib.py'' <module> 165 :: ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"]
+2024-03-01 09:39:15,240 INFO Storage_lib.py'' <module> 165 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space : 9G
+2024-03-01 09:48:50,913 INFO Storage_lib.py'' <module> 169 :: you don't have enough space for creating partitions, you have only 279G you are given 540G
+2024-03-01 09:49:30,756 INFO Storage_lib.py'' <module> 169 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :9G
+2024-03-01 09:50:32,973 INFO Storage_lib.py'' <module> 169 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :9G
+2024-03-01 09:50:41,905 INFO Storage_lib.py'' <module> 169 :: drive ['/dev/sdg'] has not enough space creating partitions, you have only 279G you are given 540G
+2024-03-01 09:51:15,050 INFO Storage_lib.py'' <module> 169 :: ["Created a new partition 1 of type 'Linux' and of size 70 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 70 GiB : /dev/sdg2"]
+2024-03-01 09:51:29,660 INFO Storage_lib.py'' <module> 169 :: ["Created a new partition 3 of type 'Linux' and of size 70 GiB : /dev/sdg3"]
+2024-03-01 09:51:52,946 INFO Storage_lib.py'' <module> 169 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :69G
+2024-03-01 09:57:26,305 INFO Storage_lib.py'' <module> 170 :: ["Created a new partition 1 of type 'Linux' and of size 70 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 70 GiB : /dev/sdg2"]
+2024-03-01 09:57:59,594 INFO Storage_lib.py'' <module> 170 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :139G
+2024-03-01 10:00:40,971 INFO Storage_lib.py'' <module> 170 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :139G you are given 140
+2024-03-01 10:00:54,339 INFO Storage_lib.py'' <module> 170 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :139G you are given : 140
+2024-03-01 10:01:13,400 INFO Storage_lib.py'' <module> 170 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :139G you are given : 140G
+2024-03-01 10:02:46,451 INFO Storage_lib.py'' <module> 171 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :139G you are given : 140G
+2024-03-01 10:05:24,286 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 70 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 70 GiB : /dev/sdg2"]
+2024-03-01 10:05:53,027 INFO Storage_lib.py'' <module> 171 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :139G you are given : 140G
+2024-03-01 10:07:37,514 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-03-01 10:07:48,167 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are only 0 you are given 2
+2024-03-01 10:14:18,434 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are only 0 you are given 2
+2024-03-01 10:14:54,028 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdg2"]
+2024-03-01 10:19:51,203 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 10 GiB : /dev/sdg4"]
+2024-03-01 10:40:57,635 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Extended' and of size 10 GiB : /dev/sdg1"]
+2024-03-01 10:42:40,868 INFO Storage_lib.py'' <module> 171 :: []
+2024-03-01 10:56:44,525 INFO Storage_lib.py'' <module> 171 :: drive ['/dev/sdg'] has not enough space for creating partition, remaining space :268G you are given : 270G
+2024-03-01 11:05:37,110 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are only 1 you are given 2
+2024-03-01 11:06:40,461 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 27 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 27 GiB : /dev/sdg2"]
+2024-03-01 11:06:49,035 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 3 of type 'Linux' and of size 27 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 27 GiB : /dev/sdg4"]
+2024-03-01 11:07:47,556 INFO Storage_lib.py'' <module> 171 :: unavailable partitions :: remaining partitions are only 0 you are given 2
+2024-03-01 11:11:20,820 INFO Storage_lib.py'' <module> 171 :: '/dev/sdg,/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-03-01 11:13:11,551 INFO Storage_lib.py'' <module> 171 :: '/dev/sdg,/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-03-01 11:14:18,618 INFO Storage_lib.py'' <module> 171 :: '/dev/sdg,/dev/sdf' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']
+2024-03-01 11:14:54,589 INFO Storage_lib.py'' <module> 171 :: ["Created a new partition 1 of type 'Linux' and of size 27 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 27 GiB : /dev/sdg2"]
+2024-03-01 11:17:36,067 INFO Storage_lib.py'' <module> 172 :: None
+2024-03-01 16:19:46,509 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 1 of type 'Linux' and of size 27 GiB : /dev/sdg1", "Created a new partition 2 of type 'Linux' and of size 27 GiB : /dev/sdg2"], ["Created a new partition 1 of type 'Linux' and of size 27 GiB : /dev/sdf1", "Created a new partition 2 of type 'Linux' and of size 27 GiB : /dev/sdf2"]]
+2024-03-01 16:20:26,851 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 3 of type 'Linux' and of size 27 GiB : /dev/sdg3", "Created a new partition 4 of type 'Linux' and of size 27 GiB : /dev/sdg4"], ["Created a new partition 3 of type 'Linux' and of size 27 GiB : /dev/sdf3", "Created a new partition 4 of type 'Linux' and of size 27 GiB : /dev/sdf4"]]
+2024-03-01 16:20:40,183 INFO Storage_lib.py'' <module> 173 :: ['unavailable partitions :: remaining partitions are only 0 you are given 2', 'unavailable partitions :: remaining partitions are only 0 you are given 2']
+2024-03-01 16:21:48,497 INFO Storage_lib.py'' <module> 173 :: ['drive /dev/sdg has not enough space creating partitions, you have only 279G you are given 540G']
+2024-03-01 16:22:27,382 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"]]
+2024-03-01 16:22:40,443 INFO Storage_lib.py'' <module> 173 :: ['drive /dev/sdg has not enough space for creating partition, remaining space :9G you are given : 270G']
+2024-03-01 16:23:26,534 INFO Storage_lib.py'' <module> 173 :: ["'/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']"]
+2024-03-01 16:24:39,684 INFO Storage_lib.py'' <module> 173 :: ['drive /dev/sdg has not enough space for creating partition, remaining space :9G you are given : 270G', ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdb1"]]
+2024-03-01 16:28:07,973 INFO Storage_lib.py'' <module> 173 :: ['drive /dev/sdg has not enough space for creating partition, remaining space :9G you are given : 270G', 'drive /dev/sdb has not enough space for creating partition, remaining space :9G you are given : 270G']
+2024-03-01 16:40:25,491 INFO Storage_lib.py'' <module> 101 :: {'/dev/sdc1': '1G', '/dev/sde4': '1K', '/dev/sde5': '10G'}
+2024-03-01 16:42:19,806 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdg1"], ["Created a new partition 1 of type 'Linux' and of size 270 GiB : /dev/sdb1"]]
+2024-03-01 16:44:17,686 INFO Storage_lib.py'' <module> 173 :: ['drive /dev/sdg has not enough space for creating partition, remaining space :9G you are given : 270G', 'drive /dev/sdb has not enough space for creating partition, remaining space :9G you are given : 270G']
+2024-03-01 16:45:05,682 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 1 of type 'Linux' and of size 2 GiB : /dev/sdd1"], ["Created a new partition 1 of type 'Linux' and of size 2 GiB : /dev/sdb2"]]
+2024-03-01 16:45:22,004 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdd2"], 'drive /dev/sdb has not enough space for creating partition, remaining space :7G you are given : 10G']
+2024-03-01 16:45:56,726 INFO Storage_lib.py'' <module> 173 :: ["'/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']", 'drive /dev/sdb has not enough space for creating partition, remaining space :7G you are given : 10G']
+2024-03-01 16:47:03,743 INFO Storage_lib.py'' <module> 173 :: ["'/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']", ["Created a new partition 3 of type 'Linux' and of size 2 GiB : /dev/sdb3"]]
+2024-03-01 16:48:41,429 INFO Storage_lib.py'' <module> 173 :: ["'/dev/sd' drive is not found in server. Available drives['/dev/sda', '/dev/sdb', '/dev/sdc', '/dev/sdd', '/dev/sde', '/dev/sdf', '/dev/sdg', '/dev/sdh']", 'drive /dev/sdb has not enough space for creating partition, remaining space :5G you are given : 6G']
+2024-03-01 16:49:54,688 INFO Storage_lib.py'' <module> 173 :: ['unavailable partitions :: remaining partitions are only 1 you are given 2', ["Created a new partition 2 of type 'Linux' and of size 2 GiB : /dev/sdg2", "Created a new partition 3 of type 'Linux' and of size 2 GiB : /dev/sdg3"]]
+2024-03-01 16:51:28,770 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 1 of type 'Linux' and of size 2 GiB : /dev/sdf1", "Created a new partition 2 of type 'Linux' and of size 2 GiB : /dev/sdf2"]]
+2024-03-01 16:52:20,119 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 1 of type 'Extended' and of size 200 GiB : /dev/sdf1"]]
+2024-03-01 16:56:24,133 INFO Storage_lib.py'' <module> 173 :: [[]]
+2024-03-01 16:57:52,392 INFO Storage_lib.py'' <module> 173 :: ['unavailable partitions :: remaining partitions are only 2 you are given 1']
+2024-03-01 16:58:33,642 INFO Storage_lib.py'' <module> 173 :: [["Created a new partition 5 of type 'Linux' and of size 20 GiB : /dev/sdf5"]]
+2024-03-01 16:58:44,736 INFO Storage_lib.py'' <module> 173 :: ['unavailable partitions :: remaining partitions are only 2 you are given 1']
+2024-03-01 17:27:23,029 INFO Storage_lib.py'' <module> 181 :: ['unavailable partitions :: remaining partitions are only 2 you are given 1']
+2024-03-01 17:27:44,203 INFO Storage_lib.py'' <module> 181 :: ['unavailable partitions :: remaining partitions are only 2 you are given 2']
+2024-03-01 17:31:59,863 INFO Storage_lib.py'' <module> 184 :: []
+2024-03-01 17:32:31,448 INFO Storage_lib.py'' <module> 184 :: []
+2024-03-01 17:32:43,730 INFO Storage_lib.py'' <module> 184 :: []
+2024-03-01 17:55:12,846 INFO Storage_lib.py'' <module> 109 :: None
+2024-03-01 17:55:21,817 INFO Storage_lib.py'' <module> 109 :: None
+2024-03-01 17:55:45,761 INFO Storage_lib.py'' <module> 109 :: None
+2024-03-01 17:56:36,117 INFO Storage_lib.py'' <module> 109 :: None
+2024-03-01 17:57:59,289 INFO Storage_lib.py'' <module> 110 :: None
+2024-03-01 17:59:52,712 INFO Storage_lib.py'' <module> 111 :: None
+2024-03-01 18:00:16,484 INFO Storage_lib.py'' <module> 111 :: None
+2024-03-01 18:00:57,915 INFO Storage_lib.py'' <module> 111 :: None
+2024-03-01 18:01:09,091 INFO Storage_lib.py'' <module> 111 :: None
+2024-03-01 18:01:30,258 INFO Storage_lib.py'' <module> 111 :: None
+2024-03-01 18:02:01,893 INFO Storage_lib.py'' <module> 112 :: None
+2024-03-01 18:02:24,608 INFO Storage_lib.py'' <module> 112 :: None
+2024-03-01 18:02:40,694 INFO Storage_lib.py'' <module> 112 :: None
+2024-03-01 18:03:49,750 INFO Storage_lib.py'' <module> 112 :: None
+2024-03-01 18:05:00,546 INFO Storage_lib.py'' <module> 111 :: {'20G': '/dev/sdf1', '200G': '/dev/sdg1'}
+2024-03-01 18:10:01,409 INFO Storage_lib.py'' <module> 111 :: {'20G': '/dev/sdf1', '200G': '/dev/sdg1'}
+2024-03-01 18:10:03,225 INFO Storage_lib.py'' <module> 225 :: []
+2024-03-01 18:17:54,607 INFO Storage_lib.py'' <module> 225 :: []
+2024-03-01 18:18:16,379 INFO Storage_lib.py'' <module> 226 :: []
+2024-03-01 18:19:45,743 INFO Storage_lib.py'' <module> 227 :: []
+2024-03-01 18:21:39,486 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 18:23:12,104 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:08:13,549 INFO Storage_lib.py'' <module> 229 :: []
+2024-03-01 19:09:06,286 INFO Storage_lib.py'' <module> 229 :: []
+2024-03-01 19:09:42,333 INFO Storage_lib.py'' <module> 229 :: []
+2024-03-01 19:10:46,236 INFO Storage_lib.py'' <module> 229 :: []
+2024-03-01 19:12:02,794 INFO Storage_lib.py'' <module> 101 :: {'/dev/sde2': '10G', '/dev/sdf1': '1K', '/dev/sdg1': '1K', '/dev/sdg2': '10G', '/dev/sdg5': '10G', '/dev/sdg6': '10G'}
+2024-03-01 19:13:19,119 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:13:56,599 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:21:12,800 INFO Storage_lib.py'' <module> 230 :: can only concatenate list (not "str") to list
+2024-03-01 19:21:48,510 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:22:33,901 INFO Storage_lib.py'' <module> 230 :: unsupported operand type(s) for +: 'int' and 'str'
+2024-03-01 19:22:57,025 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:23:41,904 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:23:53,882 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:24:07,885 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:25:13,019 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:26:40,049 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:27:40,298 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:29:39,386 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:33:44,780 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:34:12,496 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:36:06,404 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:36:29,194 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:36:43,064 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:40:00,086 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:40:35,417 INFO Storage_lib.py'' <module> 228 :: []
+2024-03-01 19:42:45,262 INFO Storage_lib.py'' <module> 229 :: []
+2024-03-01 19:43:49,840 INFO Storage_lib.py'' <module> 230 :: []
+2024-03-01 19:45:32,863 INFO Storage_lib.py'' <module> 231 :: []
+2024-03-01 19:51:51,760 INFO Storage_lib.py'' <module> 234 :: []
+2024-03-01 19:52:12,005 INFO Storage_lib.py'' <module> 234 :: invalid literal for int() with base 10: '.5'
+2024-03-01 19:53:03,849 INFO Storage_lib.py'' <module> 234 :: []
+2024-03-01 19:53:10,284 INFO Storage_lib.py'' <module> 234 :: []
+2024-03-01 19:53:34,352 INFO Storage_lib.py'' <module> 234 :: []
+2024-03-01 20:01:13,511 INFO Storage_lib.py'' <module> 238 :: []
+2024-03-01 20:02:15,896 INFO Storage_lib.py'' <module> 238 :: []
+2024-03-01 20:02:58,582 INFO Storage_lib.py'' <module> 238 :: []
+2024-03-01 20:04:33,733 INFO Storage_lib.py'' <module> 239 :: []
+2024-03-01 20:04:46,530 INFO Storage_lib.py'' <module> 239 :: []
+2024-03-01 20:07:01,705 INFO Storage_lib.py'' <module> 239 :: []
+2024-03-01 20:11:09,212 INFO Storage_lib.py'' <module> 212 :: list index out of range
+2024-03-01 20:11:54,050 INFO Storage_lib.py'' <module> 213 :: list index out of range
+2024-03-01 20:12:49,195 INFO Storage_lib.py'' <module> 214 :: []
+2024-03-01 20:13:38,653 INFO Storage_lib.py'' <module> 215 :: Created a new partition 11 of type 'Linux' and of size 1 GiB
+2024-03-01 20:15:28,841 INFO Storage_lib.py'' <module> 214 :: ["Created a new partition 12 of type 'Linux' and of size 1 GiB", "Created a new partition 13 of type 'Linux' and of size 1 GiB"]
+2024-03-01 20:18:08,845 INFO Storage_lib.py'' <module> 208 :: ["Created a new partition 14 of type 'Linux' and of size 1014 MiB", "Created a new partition 14 of type 'Linux' and of size 1014 MiB"]
+2024-03-01 20:27:42,045 INFO Storage_lib.py'' <module> 207 :: ["Created a new partition 14 of type 'Linux' and of size 1014 MiB", "Created a new partition 14 of type 'Linux' and of size 1014 MiB"]
+2024-03-01 20:29:31,055 INFO Storage_lib.py'' <module> 207 :: ["Created a new partition 14 of type 'Linux' and of size 1014 MiB"]
+2024-03-01 20:30:13,354 INFO Storage_lib.py'' <module> 207 :: list index out of range
+2024-03-01 20:31:18,992 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 1 of type 'Extended' and of size 100 GiB : /dev/sdf1"]]
+2024-03-01 20:31:58,835 INFO Storage_lib.py'' <module> 207 :: list index out of range
+2024-03-01 20:36:00,646 INFO Storage_lib.py'' <module> 207 :: ["Created a new partition 6 of type 'Linux' and of size 1 GiB"]
+2024-03-01 20:36:35,153 INFO Storage_lib.py'' <module> 207 :: ["Created a new partition 7 of type 'Linux' and of size 1 GiB", "Created a new partition 8 of type 'Linux' and of size 1 GiB", "Created a new partition 9 of type 'Linux' and of size 1 GiB"]
+2024-03-01 20:37:08,635 INFO Storage_lib.py'' <module> 207 :: ['unavailable partitions :: remaining partitions are only -2 you are given 2']
+2024-03-01 20:37:53,558 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 1 of type 'Linux' and of size 1 GiB : /dev/sde1"]]
+2024-03-01 20:39:03,404 INFO Storage_lib.py'' <module> 207 :: list index out of range
+2024-03-01 20:40:01,095 INFO Storage_lib.py'' <module> 207 :: ['unavailable partitions :: remaining partitions are only 1 you are given 2']
+2024-03-01 20:41:51,711 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 4 of type 'Linux' and of size 1 GiB : /dev/sde4"]]
+2024-03-01 20:42:44,997 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 1 of type 'Linux' and of size 1 GiB : /dev/sdf1"]]
+2024-03-01 20:42:59,852 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 2 of type 'Extended' and of size 1 GiB : /dev/sdf2"]]
+2024-03-01 20:43:41,021 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 2 of type 'Extended' and of size 100 GiB : /dev/sdf2"]]
+2024-03-01 20:44:12,538 INFO Storage_lib.py'' <module> 207 :: list index out of range
+2024-03-01 20:45:32,529 INFO Storage_lib.py'' <module> 207 :: list index out of range
+2024-03-01 20:46:31,055 INFO Storage_lib.py'' <module> 207 :: list index out of range
+2024-03-01 20:49:50,302 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 1 of type 'Linux' and of size 10 GiB : /dev/sdd1", "Created a new partition 2 of type 'Linux' and of size 10 GiB : /dev/sdd2", "Created a new partition 3 of type 'Linux' and of size 10 GiB : /dev/sdd3"]]
+2024-03-01 20:50:25,897 INFO Storage_lib.py'' <module> 207 :: [["Created a new partition 4 of type 'Extended' and of size 10 GiB : /dev/sdd4"]]
+2024-03-01 20:51:21,305 INFO Storage_lib.py'' <module> 207 :: list index out of range
